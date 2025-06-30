@@ -1,7 +1,7 @@
 set up: pip install -r requirements.txt
 Launch: python -m streamlit run app.py   /use your python version 
 
-For test text in English about Space Industry summary:
+For test text in English about Space Industry summary(facebook/bart-large-cnn):
 The journey to space began in the minds of visionary thinkers and writers. The history of space exploration is not just a tale of technological achievement. It is a grand, multi-generational saga of humanambition, fierce geopolitical rivalry, breathtaking scientific discovery.
 
 Why this models:

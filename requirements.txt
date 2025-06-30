@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentencepiece
+python-docx
+pypdf
+langchain
+groq
+# project using python version 3.11.9 so u need to pip3.11 install -r requirements.txt
